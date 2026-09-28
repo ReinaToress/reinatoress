@@ -64,4 +64,12 @@ part notebook for the things I'm making next.
 
 ## Connect
 
+<p>
+  <a href="https://x.com/reinatorress">
+    <img src="x-logo.svg" alt="X profile" width="36" />
+  </a>
+  <br />
+  <a href="https://x.com/reinatorress">Follow Reina on X</a>
+</p>
+
 More projects and updates coming soon.
