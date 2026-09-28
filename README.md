@@ -35,3 +35,7 @@ part notebook for the things I'm making next.
 ## Connect
 
 More projects and updates coming soon.
+
+<p>
+  <img src="buymeacoffeelogo.png" alt="Buy Me a Coffee logo" width="160" />
+</p>
