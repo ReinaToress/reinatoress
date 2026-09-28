@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="header.png" alt="Reina Toress profile header" width="100%" />
+</p>
+
 # Hi, I'm Reina Toress
 
 Welcome to my little corner of GitHub.
