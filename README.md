@@ -2,6 +2,12 @@
   <img src="header.png" alt="Reina Toress profile header" width="100%" />
 </p>
 
+<p align="center">
+  <a href="https://buymeacoffee.com/reinatorress">
+    <img src="buymeacoffeelogo.png" alt="Buy Me a Coffee logo" width="160" />
+  </a>
+</p>
+
 # Hi, I'm Reina Toress
 
 Welcome to my little corner of GitHub.
@@ -39,9 +45,3 @@ part notebook for the things I'm making next.
 ## Connect
 
 More projects and updates coming soon.
-
-<p>
-  <a href="https://buymeacoffee.com/reinatorress">
-    <img src="buymeacoffeelogo.png" alt="Buy Me a Coffee logo" width="160" />
-  </a>
-</p>
