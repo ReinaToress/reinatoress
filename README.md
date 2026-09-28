@@ -25,14 +25,34 @@ turn into something people can actually open, try, and use.
 
 ## Featured Projects
 
-### QuickPDF
-
-Simple PDF utilities without the clutter.
-
-QuickPDF is an experimental browser-based tool for everyday PDF tasks like file
-inspection, page count, and basic validation.
-
-[View QuickPDF](https://github.com/ReinaToress/QuickPDF)
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/ReinaToress/QuickPDF">
+        <img src="https://raw.githubusercontent.com/ReinaToress/QuickPDF/main/public/quickpdf%20logo.png" alt="QuickPDF logo" width="120" />
+      </a>
+      <h3>QuickPDF</h3>
+      <p>Simple PDF utilities without the clutter.</p>
+      <a href="https://github.com/ReinaToress/QuickPDF">View repo</a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/ReinaToress/json-toolkit">
+        <img src="https://raw.githubusercontent.com/ReinaToress/json-toolkit/main/public/jsontoolkitlogo.png" alt="JSON Toolkit logo" width="120" />
+      </a>
+      <h3>JSON Toolkit</h3>
+      <p>Useful JSON tools in one clean workspace.</p>
+      <a href="https://github.com/ReinaToress/json-toolkit">View repo</a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/ReinaToress/workday-calc">
+        <img src="https://raw.githubusercontent.com/ReinaToress/workday-calc/main/public/workday-calc-logo.png" alt="Workday Calc logo" width="120" />
+      </a>
+      <h3>Workday Calc</h3>
+      <p>Figure out workdays without counting manually.</p>
+      <a href="https://github.com/ReinaToress/workday-calc">View repo</a>
+    </td>
+  </tr>
+</table>
 
 ## My Style
 
