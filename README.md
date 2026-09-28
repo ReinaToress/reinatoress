@@ -37,5 +37,7 @@ part notebook for the things I'm making next.
 More projects and updates coming soon.
 
 <p>
-  <img src="buymeacoffeelogo.png" alt="Buy Me a Coffee logo" width="160" />
+  <a href="https://buymeacoffee.com/reinatorress">
+    <img src="buymeacoffeelogo.png" alt="Buy Me a Coffee logo" width="160" />
+  </a>
 </p>
