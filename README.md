@@ -65,6 +65,8 @@ part notebook for the things I'm making next.
 ## Connect
 
 <p>
+  🌐 <a href="https://www.reinatorress.shop/">Visit Reina's website</a>
+  <br />
   <a href="https://x.com/reinatorress">
     <img src="x-logo.svg" alt="X profile" width="36" />
   </a>
